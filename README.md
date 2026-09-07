@@ -1,0 +1,2 @@
+# EECE 576N: From Markov Decision Processes to Deep Reinforcement Learning (Fall 2026)
+Course resources for EECE 576N, as it was taught at UBC in the fall of 2026. The course syllabus is available [here](syllabus_EECE_V_576N.pdf).
